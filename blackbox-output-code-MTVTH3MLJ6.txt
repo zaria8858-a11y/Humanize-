@@ -1,0 +1,4 @@
+1. Click "Add file" → "Create new file"
+2. Name it: `index.html`
+3. Paste ALL the code I gave you
+4. Click "Commit new file"

@@ -1,0 +1,2 @@
+Settings → Pages (left menu)
+Source: Deploy from branch → main → Save
